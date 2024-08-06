@@ -1,0 +1,1 @@
+﻿Set-Service -Name "HEG_Service-PS" -StartupType Disabled

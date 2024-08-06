@@ -1,0 +1,1 @@
+netsh advfirewall firewall delete rule name="HEG_Firewall-Exclusion-CMD"

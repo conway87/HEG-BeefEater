@@ -1,0 +1,1 @@
+REG ADD HKEY_CURRENT_USER\Console\HEG_Registry-Key-CMD\ /v KeyOne /d "HEG"

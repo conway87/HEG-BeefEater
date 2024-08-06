@@ -1,0 +1,1 @@
+﻿Set-ItemProperty -Path HKCU:\Console\HEG_Registry-Key-PS -Name HEG -Value "Updated"

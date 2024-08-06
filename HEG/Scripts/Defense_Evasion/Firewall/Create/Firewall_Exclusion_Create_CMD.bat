@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="HEG_Firewall-Exclusion-CMD" dir=in action=allow enable=yes

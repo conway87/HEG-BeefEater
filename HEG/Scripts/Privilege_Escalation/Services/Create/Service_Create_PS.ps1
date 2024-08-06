@@ -1,0 +1,1 @@
+﻿New-Service -Name "HEG_Service-PS" -BinaryPathName "C:\HEG\Legacy_Tooling.exe" -DisplayName "HEG_Service-PS" -StartupType Automatic
