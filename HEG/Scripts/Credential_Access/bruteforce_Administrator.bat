@@ -7,5 +7,5 @@ set command=calc.exe
 
 
 for /l %%i in (1, 1, 25) do (
-    .\Tools\psexec -u Administrator -p %password%_%%i %command%
+    .\Tools\psexec -accepteula -u Administrator -p %password%_%%i %command%
 )
