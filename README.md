@@ -13,7 +13,7 @@ e.g. *What events would be generated from modifying a registry key in cmd versus
 1. Read the wiki over on the main HEG repo. For quick start:
    
     * Download and extract repo
-    * Make sure root folder is called 'HEG'
+    * Make sure folder containg main script is called 'HEG' (\HEG\HEG.ps1)
     * Launch PowerShell as admin
     * Locate and run `HEG.ps1`
     * After it completes, check the Logs directory
